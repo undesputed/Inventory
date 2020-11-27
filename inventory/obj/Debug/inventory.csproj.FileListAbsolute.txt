@@ -1,0 +1,68 @@
+C:\Users\Carrie Yu\source\repos\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\Carrie Yu\source\repos\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\Carrie Yu\source\repos\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\Carrie Yu\source\repos\inventory\inventory\bin\Debug\MaterialSkin.dll
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.csprojAssemblyReference.cache
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.cache
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.csproj.CopyComplete
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.exe
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.pdb
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.Dashboard.resources
+C:\Users\Carrie Yu\source\repos\inventory\inventory\obj\Debug\inventory.Login.resources
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.csprojAssemblyReference.cache
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.Dashboard.resources
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.Login.resources
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.cache
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.csproj.CopyComplete
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.exe
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\001\inventory\inventory\obj\Debug\inventory.pdb
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.csprojAssemblyReference.cache
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.Dashboard.resources
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.Login.resources
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.cache
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.exe
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.pdb
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\bin\Debug\mysql.data.dll
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.csproj.CopyComplete
+C:\Users\DL Sumilang\Desktop\DC ST\Inventory\002\inventory\inventory\obj\Debug\inventory.Product_Key_Form.resources
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.csprojAssemblyReference.cache
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.Dashboard.resources
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.Login.resources
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.Product_Key_Form.resources
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.cache
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.csproj.CopyComplete
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.exe
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.pdb
+C:\Users\Carrie Yu\Desktop\Carrie Yu\practice\bakup\002\inventory\inventory\obj\Debug\inventory.User_Info.resources
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.csprojAssemblyReference.cache
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.Dashboard.resources
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.Login.resources
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.Product_Key_Form.resources
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.cache
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.csproj.CopyComplete
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.exe
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.pdb
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.DeletePrompt.resources
+C:\Users\Carrie Yu\source\repos\inventory Repos\002\inventory\inventory\obj\Debug\inventory.PrinterSetup.resources
